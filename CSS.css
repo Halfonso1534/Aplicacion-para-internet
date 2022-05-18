@@ -1,0 +1,119 @@
+
+#Accses {
+    border: 1px solid rgb(4, 0, 255);
+    width: 30%;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 15%;
+    background: #ff000080;
+    padding: 20px 50px
+    center;
+}   
+#Accses h1 {
+    color: rgb(21, 18, 172);
+}
+#Accses .form .item input {
+    width: 200px; 
+    border: 20; 
+    border-bottom: 5px solid rgb(0, 0, 0);
+    font-size: 18px;
+    background: #00000000;
+    color: rgb(255, 0, 0); 
+    padding: 5px 10px
+    center;
+}
+#Accses .form .item i {
+    color: rgb(0, 0, 0);
+    font-size: 18px
+    center;
+}
+#Accses button {
+    border: 0; 
+    width: 150px; 
+    margin-top: 18px;
+    font-size: 18px; 
+    color: rgb(0, 0, 0); 
+    border-radius: 25px; 
+    background-image: linear-gradient(to right, #ff0000 0%, #fc00ff 100) 
+    center;
+}
+#Accses boton {
+    border: 0; 
+    width: 150px; 
+    margin-top: 18px;
+    font-size: 18px; 
+    color: rgb(0, 0, 0); 
+    border-radius: 25px; 
+    background-image: linear-gradient(to right, #ff0000 0%, #fc00ff 100) 
+    center;
+}
+#Albion{
+    border: 1px solid rgb(4, 0, 255);
+    width: 80%;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 15%;
+    background: #ff000080;
+    padding: 20px 50px
+    center;
+
+}
+
+#Mundo{
+    color: rgb(255, 255, 255);
+}
+#Mundo2{
+    color: rgb(255, 255, 255);
+}
+
+#zonas0{
+    color: rgb(255, 255, 255);
+}
+#zonas1{
+    color: rgb(255, 255, 255);
+}
+#zonas2{
+    color: rgb(255, 255, 255);
+}
+#zonas3{
+    color: rgb(255, 255, 255);
+}
+#zvz{
+    color: rgb(255, 255, 255);
+}
+#zvz0{
+    color: rgb(255, 255, 255);
+}
+#zvz1{
+    color: rgb(255, 255, 255);
+}
+#zvz2{
+    color: rgb(255, 255, 255);
+}
+#zvz3{
+    color: rgb(255, 255, 255);
+}
+#zvz4{
+    color: rgb(255, 255, 255);
+}
+#zvz5{
+    color: rgb(255, 255, 255);
+}
+
+#CSSZVZ{
+    border: 1px solid rgb(4, 0, 255);
+    width: 80%;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 15%;
+    background: #ff000080;
+    padding: 20px 50px
+    center;
+}
+
+body {
+    background: url("../Imagenes/CSGO.jpg") center; 
+    background-size: 100% auto;
+    background-repeat: repeat; 
+    Height : 648px;
+}
